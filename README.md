@@ -13,3 +13,9 @@ This folder contains:
 - [notebooks/meta-graph.ipynb](notebooks/meta-graph.ipynb): Figures to display the relationships between drivers and variables and the results of the quality assessement
 - `meta/*`: folders with the excel files containing the references of the primary studies for selected meta-analyses.
 - [notebooks/redundancy.ipynb](notebooks/redundancy.ipynb): Redundancy analysis similar to Beillouin et al. (2019) based on the references used in the meta-analysis and stored in separated file in the `meta` directory.
+
+## Citation
+Refer to this citation if you make use of the database:
+```
+CLIMASOMA authors, 2022 "Open-source Tension-disk Infiltrometer Meta-Databse (OTIM-DB)" CLIMASOMA report.
+```
