@@ -1,5 +1,7 @@
 # Soil and crop management for climate-smart soils
 
+[![DOI](https://zenodo.org/badge/452245985.svg)](https://zenodo.org/badge/latestdoi/452245985)
+
 This repository is part of the [EJP SOIL CLIMASOMA project](https://ejpsoil.eu/soil-research/climasoma/).
 
 This work aims at creating an integrative literature review on the effect of agricultural practices on sustainable soil water management in Europe. For this we selected multiple meta-analysis using the followig query string:
